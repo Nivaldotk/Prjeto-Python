@@ -1,0 +1,1 @@
+Esse é um sistema de Delivery criado com python e a bliblioteca Django ainda encontrasse com alguns pequenos bugs e necessita-se melhorar os produtos mas é apenas um teste e espero mais na frente melhoraro!
